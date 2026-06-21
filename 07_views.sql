@@ -2,8 +2,6 @@
 -- EMPLOYEE MANAGEMENT SYSTEM - Capstone Project
 -- Section 07: Views
 -- Tasks 1 & 2: Simple Read-Only View and Payroll Dashboard View
--- Author: Ya'Rab Almamari
--- Date: 20/6/2026
 -- Database: Oracle 19c
 -- ============================================================
 

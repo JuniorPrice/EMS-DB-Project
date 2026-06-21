@@ -2,8 +2,6 @@
 -- EMPLOYEE MANAGEMENT SYSTEM - Capstone Project
 -- Section 08: Stored Procedures & Functions
 -- Tasks 1 & 2: Procedure - Add New Employee and Function - Calculate Net Salary
--- Author: Ya'Rab Almamari
--- Date: 20/6/2026
 -- Database: Oracle 19c
 -- ============================================================
 

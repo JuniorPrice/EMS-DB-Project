@@ -2,8 +2,6 @@
 -- EMPLOYEE MANAGEMENT SYSTEM - Capstone Project
 -- Section 09: Triggers
 -- Tasks 1 & 2: BEFORE INSERT and AFTER INSERT Triggers
--- Author: Ya'Rab Almamari
--- Date: 20/6/2026
 -- Database: Oracle 19c
 -- ============================================================
 

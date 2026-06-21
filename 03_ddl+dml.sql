@@ -2,8 +2,6 @@
 -- EMPLOYEE MANAGEMENT SYSTEM - Complete Setup Script
 -- Section: 01 -> Task 03 
 -- Section: 03 -> Task 01
--- Author: Ya'Rab Almamari
--- Date: 20/6/2026
 -- Database: Oracle 19c+
 -- ============================================================
 

@@ -2,8 +2,6 @@
 -- EMPLOYEE MANAGEMENT SYSTEM - Capstone Project
 -- Section 04: Aggregation Functions
 -- Tasks 1 & 2: Basic Aggregation and GROUP BY with HAVING
--- Author: Ya'Rab Amamari
--- Date: 20/6/2026
 -- Database: Oracle 19c
 -- ============================================================
 

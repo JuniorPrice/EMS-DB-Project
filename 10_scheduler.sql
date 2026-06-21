@@ -2,8 +2,6 @@
 -- EMPLOYEE MANAGEMENT SYSTEM - Capstone Project
 -- Section 10: Oracle Scheduler Jobs
 -- Tasks 1 & 2: Simple One-Time Scheduler Job and Recurring Job
--- Author: Ya'Rab Almamri
--- Date: 20/6/2026
 -- Database: Oracle 19c
 -- ============================================================
 

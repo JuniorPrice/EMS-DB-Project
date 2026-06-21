@@ -2,8 +2,6 @@
 -- EMPLOYEE MANAGEMENT SYSTEM - Capstone Project
 -- Section 03: SQL DQL
 -- Task 2: Conditional SELECT Queries
--- Author: Ya'Rab Almamari
--- Date: 20/6/2026
 -- Database: Oracle 19c
 -- ============================================================
 

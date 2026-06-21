@@ -2,8 +2,6 @@
 -- EMPLOYEE MANAGEMENT SYSTEM - Capstone Project
 -- Section 05: Joins
 -- Tasks 1 & 2: INNER JOIN and LEFT OUTER JOIN
--- Author: Ya'Rab Almamari
--- Date: 20/6/2026
 -- Database: Oracle 19c
 -- ============================================================
 
